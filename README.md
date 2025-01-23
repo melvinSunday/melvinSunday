@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about web development and most comfortable with frontend development, I enjoy learning new skills and staying up-to-date with the latest technologies
+Passionate about web development and most comfortable with frontend development.
 
 
 ## 🌐 Socials:
