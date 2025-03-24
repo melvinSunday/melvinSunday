@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about web development and most comfortable with frontend development
+Full-stack web developer
 
 
 ## 🌐 Socials:
